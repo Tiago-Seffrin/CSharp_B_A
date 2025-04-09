@@ -1,0 +1,7 @@
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\seffr\OneDrive\Documentos\Curso CSharp-Nélio\Exercicio01\obj\Debug\Exercicio01.pdb
