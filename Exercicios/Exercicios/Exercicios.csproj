@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="Fundamentos\Exercicio1.cs" />
+    <Compile Include="Fundamentos\Exercicio2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
