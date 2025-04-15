@@ -44,8 +44,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="Classes\Exercicio19.cs" />
     <Compile Include="Fundamentos\Exercicio1.cs" />
+    <Compile Include="Fundamentos\Exercicio10.cs" />
+    <Compile Include="Fundamentos\Exercicio11.cs" />
+    <Compile Include="Fundamentos\Exercicio12.cs" />
+    <Compile Include="Fundamentos\Exercicio13.cs" />
+    <Compile Include="Fundamentos\Exercicio14.cs" />
+    <Compile Include="Fundamentos\Exercicio15.cs" />
+    <Compile Include="Fundamentos\Exercicio16.cs" />
+    <Compile Include="Fundamentos\Exercicio17.cs" />
+    <Compile Include="Fundamentos\Exercicio18.cs" />
     <Compile Include="Fundamentos\Exercicio2.cs" />
+    <Compile Include="Fundamentos\Exercicio3.cs" />
+    <Compile Include="Fundamentos\Exercicio4.cs" />
+    <Compile Include="Fundamentos\Exercicio5.cs" />
+    <Compile Include="Fundamentos\Exercicio6.cs" />
+    <Compile Include="Fundamentos\Exercicio7.cs" />
+    <Compile Include="Fundamentos\Exercicio8.cs" />
+    <Compile Include="Fundamentos\Exercicio9.cs" />
+    <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
