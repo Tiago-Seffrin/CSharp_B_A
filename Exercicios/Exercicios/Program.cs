@@ -27,7 +27,11 @@ namespace CursoCSharp {
                 {"Décimo Sétimo Programa - Fundamentos", Exercicio17.Executar},
                 {"Décimo Oitavo Programa - Fundamentos", Exercicio18.Executar},
                 //------Classes, Atributos, métodos e membros estáticos--------//
-                {"Primeiro Programa - Classes", Exercicio19.Executar},
+                {"Décimo Nono Programa - Classes", Exercicio19.Executar},
+                {"Vigésimo Programa - Classes", Exercicio20.Executar},
+                {"Vigésimo Primeiro Programa - Classes", Exercicio21.Executar},
+                {"Vigésimo Segundo Programa - Classes", Exercicio22.Executar},
+                {"Vigésimo Terceiro Programa - Classes", Exercicio23.Executar},
 
 
             });

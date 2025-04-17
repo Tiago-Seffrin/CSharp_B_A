@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aluno.cs" />
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="Classes\Exercicio19.cs" />
+    <Compile Include="Classes\Exercicio20.cs" />
+    <Compile Include="Classes\Exercicio21.cs" />
+    <Compile Include="Classes\Exercicio22.cs" />
+    <Compile Include="Classes\Exercicio23.cs" />
+    <Compile Include="Funcionario.cs" />
     <Compile Include="Fundamentos\Exercicio1.cs" />
     <Compile Include="Fundamentos\Exercicio10.cs" />
     <Compile Include="Fundamentos\Exercicio11.cs" />
@@ -64,8 +70,10 @@
     <Compile Include="Fundamentos\Exercicio8.cs" />
     <Compile Include="Fundamentos\Exercicio9.cs" />
     <Compile Include="Pessoa.cs" />
+    <Compile Include="Produto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Retangulo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
